@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <p>
   
-  <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/javascript-original.svg" />
-
-
+  
+  <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
   <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 
@@ -44,17 +44,15 @@ Here are some ideas to get you started:
 
 <p>
 
-  
-  
-
   <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
   
  <img align="left" width="40px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
           
   <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 
-          
   <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
           
 
@@ -65,6 +63,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+
 ### My Github Stats
 ![Zhikai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-HZK&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-HZK&layout=compact)
