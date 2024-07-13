@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## My Github Stats
 ![Zhikai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-HZK&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-HZK&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-HZK&layout=compact)
