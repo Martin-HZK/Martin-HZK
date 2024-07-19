@@ -84,6 +84,9 @@ Here are some ideas to get you started:
   <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
 
   <img align="left" width="40px" style="padding-right:10px;" src="https://foruda.gitee.com/avatar/1675329962112838057/6486504_openharmony_1675329962.png!avatar100" />
+  
+  <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          
 </p>
 
 <br>
