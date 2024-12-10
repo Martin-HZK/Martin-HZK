@@ -1,6 +1,9 @@
 <h1 align="center">
   Hi there, nice to see you
   <img alt="Welcome cutie emoji" width="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" />
+  <div align="center">
+    < img align="center" src="https://komarev.com/ghpvc/?username=Martin-HZK&color=orange" alt="Profile Views">
+  </div>
 </h1>
 
 <!--
